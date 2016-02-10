@@ -2,6 +2,8 @@
 
 Get a free server port for testing with
 
+[![Build Status](https://travis-ci.org/jonathanstowe/Test-Util-ServerPort.svg?branch=master)](https://travis-ci.org/jonathanstowe/Test-Util-ServerPort)
+
 ## Synopsis
 
 ```
